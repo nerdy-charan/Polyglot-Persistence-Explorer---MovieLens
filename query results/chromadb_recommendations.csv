@@ -1,0 +1,101 @@
+category,title,genres,similarity_score,query
+Animated Family,"Amazing Panda Adventure, The (1995)",Adventure|Children,0.174,animated family children adventure
+Animated Family,"Adventures of Pinocchio, The (1996)",Adventure|Children,0.144,animated family children adventure
+Animated Family,"King and I, The (1999)",Animation|Children,0.138,animated family children adventure
+Animated Family,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy,0.13,animated family children adventure
+Animated Family,"Aristocats, The (1970)",Animation|Children,0.116,animated family children adventure
+Animated Family,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,0.11,animated family children adventure
+Animated Family,101 Dalmatians II: Patch's London Adventure (2003),Animation|Children,0.108,animated family children adventure
+Animated Family,Brother Bear (2003),Adventure|Animation|Children,0.106,animated family children adventure
+Animated Family,Kid's Story (2003),Animation|Sci-Fi,0.1,animated family children adventure
+Animated Family,"Jungle Book 2, The (2003)",Animation|Children,0.098,animated family children adventure
+Animated Family,"Tigger Movie, The (2000)",Animation|Children,0.094,animated family children adventure
+Animated Family,Family Guy Presents: Blue Harvest (2007),Animation|Comedy,0.093,animated family children adventure
+Animated Family,Pokémon the Movie 2000 (2000),Animation|Children,0.084,animated family children adventure
+Animated Family,Ice Age: A Mammoth Christmas (2011),Adventure|Animation|Children,0.084,animated family children adventure
+Animated Family,Adventures in Babysitting (1987),Adventure|Comedy,0.081,animated family children adventure
+Animated Family,Up (2009),Adventure|Animation|Children|Drama,0.078,animated family children adventure
+Animated Family,Barney's Great Adventure (1998),Adventure|Children,0.072,animated family children adventure
+Animated Family,Junior and Karlson (1968),Adventure|Animation|Children,0.07,animated family children adventure
+Animated Family,Dinosaur (2000),Adventure|Animation|Children,0.067,animated family children adventure
+Animated Family,"Adventures of Ichabod and Mr. Toad, The (1949)",Animation|Children,0.067,animated family children adventure
+Action Thriller,Extreme Ops (2002),Action|Adventure|Crime|Thriller,0.15,action thriller suspense intense
+Action Thriller,Hush (2016),Thriller,0.15,action thriller suspense intense
+Action Thriller,The Gallows (2015),Horror|Thriller,0.149,action thriller suspense intense
+Action Thriller,S.W.A.T. (2003),Action|Thriller,0.148,action thriller suspense intense
+Action Thriller,Panic Room (2002),Thriller,0.148,action thriller suspense intense
+Action Thriller,Frenzy (1972),Thriller,0.148,action thriller suspense intense
+Action Thriller,"View to a Kill, A (1985)",Action|Adventure|Thriller,0.139,action thriller suspense intense
+Action Thriller,V/H/S/2 (2013),Horror|Thriller,0.139,action thriller suspense intense
+Action Thriller,The Loft (2014),Thriller,0.138,action thriller suspense intense
+Action Thriller,Saw II (2005),Horror|Thriller,0.137,action thriller suspense intense
+Action Thriller,"Dangerous Method, A (2011)",Drama|Thriller,0.134,action thriller suspense intense
+Action Thriller,Secret Agent (1936),Thriller,0.133,action thriller suspense intense
+Action Thriller,High Tension (Haute tension) (Switchblade Romance) (2003),Horror|Thriller,0.132,action thriller suspense intense
+Action Thriller,Saw IV (2007),Crime|Horror|Thriller,0.13,action thriller suspense intense
+Action Thriller,Don't Breathe (2016),Thriller,0.121,action thriller suspense intense
+Action Thriller,Death of a President (2006),Crime|Drama|Mystery|Thriller,0.114,action thriller suspense intense
+Action Thriller,Saw III (2006),Crime|Horror|Thriller,0.103,action thriller suspense intense
+Action Thriller,High Crimes (2002),Thriller,0.102,action thriller suspense intense
+Action Thriller,Saw VII 3D - The Final Chapter (2010),Horror|Mystery|Thriller,0.1,action thriller suspense intense
+Action Thriller,V/H/S (2012),Horror|Thriller,0.099,action thriller suspense intense
+Horror Scary,Don't Be Afraid of the Dark (2010),Horror|Thriller,0.302,horror scary frightening dark terror
+Horror Scary,Scary Movie 4 (2006),Comedy|Horror,0.242,horror scary frightening dark terror
+Horror Scary,Friday the 13th (2009),Horror,0.236,horror scary frightening dark terror
+Horror Scary,Scary Movie (2000),Comedy|Horror,0.231,horror scary frightening dark terror
+Horror Scary,"Power of Nightmares, The: The Rise of the Politics of Fear (2004)",Documentary,0.223,horror scary frightening dark terror
+Horror Scary,Scary Movie 3 (2003),Comedy|Horror,0.222,horror scary frightening dark terror
+Horror Scary,Are You Scared? (2006),Horror,0.204,horror scary frightening dark terror
+Horror Scary,Last Shift (2014),Horror,0.194,horror scary frightening dark terror
+Horror Scary,"Awakening, The (1980)",Horror,0.179,horror scary frightening dark terror
+Horror Scary,Darkness (2002),Horror|Mystery,0.168,horror scary frightening dark terror
+Horror Scary,Children of the Night (1991),Horror,0.167,horror scary frightening dark terror
+Horror Scary,"Nightmare on Elm Street 5: The Dream Child, A (1989)",Horror,0.158,horror scary frightening dark terror
+Horror Scary,Crimson Peak (2015),Horror,0.157,horror scary frightening dark terror
+Horror Scary,"Exorcist III, The (1990)",Horror,0.156,horror scary frightening dark terror
+Horror Scary,The Conjuring 2 (2016),Horror,0.151,horror scary frightening dark terror
+Horror Scary,"Last Winter, The (2006)",Horror,0.148,horror scary frightening dark terror
+Horror Scary,Halloween (2007),Horror,0.146,horror scary frightening dark terror
+Horror Scary,Ring of Terror (1962),Horror,0.13,horror scary frightening dark terror
+Horror Scary,Scary Movie 2 (2001),Comedy,0.13,horror scary frightening dark terror
+Horror Scary,"Children, The (2008)",Horror,0.129,horror scary frightening dark terror
+Drama Emotional,Short Term 12 (2013),Drama,0.111,emotional drama moving touching sad
+Drama Emotional,The Fundamentals of Caring (2016),Drama,0.05,emotional drama moving touching sad
+Drama Emotional,Cries and Whispers (Viskningar och rop) (1972),Drama,0.048,emotional drama moving touching sad
+Drama Emotional,Bliss (2012),Drama,0.044,emotional drama moving touching sad
+Drama Emotional,Love & Mercy (2014),Drama,0.037,emotional drama moving touching sad
+Drama Emotional,Sully (2016),Drama,0.021,emotional drama moving touching sad
+Drama Emotional,42 (2013),Drama,0.014,emotional drama moving touching sad
+Drama Emotional,Shame (2011),Drama,0.013,emotional drama moving touching sad
+Drama Emotional,Akeelah and the Bee (2006),Drama,-0.001,emotional drama moving touching sad
+Drama Emotional,"Man Who Cried, The (2000)",Drama,-0.002,emotional drama moving touching sad
+Drama Emotional,"Help, The (2011)",Drama,-0.007,emotional drama moving touching sad
+Drama Emotional,"Crying Game, The (1992)",Drama|Romance|Thriller,-0.008,emotional drama moving touching sad
+Drama Emotional,Pushing Hands (Tui shou) (1992),Drama,-0.017,emotional drama moving touching sad
+Drama Emotional,Solas (1999),Drama,-0.017,emotional drama moving touching sad
+Drama Emotional,Touch (1997),Drama|Fantasy|Romance,-0.018,emotional drama moving touching sad
+Drama Emotional,Boys Don't Cry (1999),Drama,-0.019,emotional drama moving touching sad
+Drama Emotional,"Separation, A (Jodaeiye Nader az Simin) (2011)",Drama,-0.03,emotional drama moving touching sad
+Drama Emotional,Eros (2004),Drama,-0.031,emotional drama moving touching sad
+Drama Emotional,Take Shelter (2011),Drama,-0.031,emotional drama moving touching sad
+Drama Emotional,Fences (2016),Drama,-0.032,emotional drama moving touching sad
+Comedy Funny,Louis C.K.: Hilarious (2010),Comedy,0.207,comedy funny hilarious laugh humor
+Comedy Funny,Gentlemen Broncos (2009),Comedy,0.128,comedy funny hilarious laugh humor
+Comedy Funny,Jimmy Carr: Telling Jokes (2009),Comedy,0.127,comedy funny hilarious laugh humor
+Comedy Funny,Jimmy Carr: Making People Laugh (2010),Comedy,0.112,comedy funny hilarious laugh humor
+Comedy Funny,Ted (2012),Comedy|Fantasy,0.075,comedy funny hilarious laugh humor
+Comedy Funny,Funny People (2009),Comedy|Drama,0.034,comedy funny hilarious laugh humor
+Comedy Funny,"Internship, The (2013)",Comedy,0.019,comedy funny hilarious laugh humor
+Comedy Funny,Radio Day (2008),Comedy,0.016,comedy funny hilarious laugh humor
+Comedy Funny,Extract (2009),Comedy,0.007,comedy funny hilarious laugh humor
+Comedy Funny,Semi-Pro (2008),Comedy,0.007,comedy funny hilarious laugh humor
+Comedy Funny,Cedar Rapids (2011),Comedy,0.005,comedy funny hilarious laugh humor
+Comedy Funny,Anchorman 2: The Legend Continues (2013),Comedy,0.002,comedy funny hilarious laugh humor
+Comedy Funny,Our Idiot Brother (2011),Comedy,-0.0,comedy funny hilarious laugh humor
+Comedy Funny,High School (2010),Comedy,-0.002,comedy funny hilarious laugh humor
+Comedy Funny,"Deal, The (2008)",Comedy,-0.009,comedy funny hilarious laugh humor
+Comedy Funny,Search Party (2014),Comedy,-0.01,comedy funny hilarious laugh humor
+Comedy Funny,Mr. Bean's Holiday (2007),Comedy,-0.01,comedy funny hilarious laugh humor
+Comedy Funny,Nacho Libre (2006),Comedy,-0.01,comedy funny hilarious laugh humor
+Comedy Funny,College Road Trip (2008),Comedy,-0.011,comedy funny hilarious laugh humor
+Comedy Funny,Get a Job (2016),Comedy,-0.012,comedy funny hilarious laugh humor
